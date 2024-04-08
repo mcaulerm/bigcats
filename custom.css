@@ -1,0 +1,61 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+h1, h2 {
+  font-family: "Copperplate", fantasy;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-decoration-line: underline;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+h2 {
+	font-size: 50px;
+}
+
+.bg-danger{
+	background-color: hotpink !important;
+}
+
+#carouselExampleIndicators { 
+width: 30%
+}
+
+.carousel {
+  margin: 0 auto;
+}
+
+
+
+#cheetah{
+  background-color: beige;
+}
+#Tiger{
+  background-color: beige;
+}
+
+#Leopard{
+  background-color: beige;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: darkblue;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+p {
+  font-family: "Lucida Console", monospace;
+  color: black;
+}
+
